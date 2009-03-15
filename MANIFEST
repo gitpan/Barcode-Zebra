@@ -1,0 +1,20 @@
+MANIFEST
+README
+Changes
+COPYING.LIB
+Makefile.PL
+typemap
+Zebra.xs
+ppport.h
+Zebra.pm
+Zebra/Image.pod
+Zebra/ImageScanner.pod
+Zebra/Processor.pod
+Zebra/Symbol.pod
+t/barcode.png
+t/Decoder.t
+t/Image.t
+t/Processor.t
+t/Scanner.t
+t/Zebra.t
+META.yml                                 Module meta-data (added by MakeMaker)
